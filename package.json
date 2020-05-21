@@ -1,0 +1,9 @@
+{
+  "name": "rocketseat-starter-javascript-es6",
+  "description": "Exercícios resolvidos do curso de Javascript ES6 do módulo Starter da Rocketseat.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dominguetigs/rocketseat-starter-javascript-es6.git",
+  "author": "Gustavo Domingueti <gustavo.s.domingueti@gmail.com>",
+  "license": "MIT"
+}
