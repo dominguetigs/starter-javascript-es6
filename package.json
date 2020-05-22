@@ -6,6 +6,10 @@
   "repository": "git@github.com:dominguetigs/rocketseat-starter-javascript-es6.git",
   "author": "Gustavo Domingueti <gustavo.s.domingueti@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix"
+  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
