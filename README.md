@@ -1,5 +1,5 @@
 <h1 align="center">
-    Exercícios de Javascript ES6 do curso Starter da Rocketseat
+    Exercícios resolvidos do curso de Javascript ES6 do módulo Starter da Rocketseat
 </h1>
 
 <p align="center">
